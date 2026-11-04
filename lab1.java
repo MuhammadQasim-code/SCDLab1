@@ -7,6 +7,8 @@ public class lab1 {
 
         System.out.println("Hello, " + name + "!");
         System.out.println("Sum: " + (a + b));
+
+        System.out.println("2nd Branch added")
     }
 }
 
